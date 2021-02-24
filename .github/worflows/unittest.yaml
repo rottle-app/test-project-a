@@ -1,8 +1,8 @@
 name: 单体测试
 on:
   push:
-  branches:
-    - master
+    branches:
+      - master
 jobs:
   unitTest:
     name: 单体测试
